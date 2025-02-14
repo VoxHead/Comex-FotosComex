@@ -1,1 +1,1 @@
-﻿<%@ WebHandler Language="C#" CodeBehind="Handler1.ashx.cs" Class="pruebaCamaraTablet.Handler1" %>
+﻿<%@ WebHandler Language="C#" CodeBehind="Handler1.ashx.cs" Class="FotosComex.Handler1" %>
