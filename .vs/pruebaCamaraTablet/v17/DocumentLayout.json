@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{682AF452-5AB1-4945-A434-1F25B460A521}|pruebaCamaraTablet\\pruebaCamaraTablet.csproj|C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebacamaratablet\\css\\stylecapturacamara.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{682AF452-5AB1-4945-A434-1F25B460A521}|pruebaCamaraTablet\\pruebaCamaraTablet.csproj|solutionrelative:pruebacamaratablet\\css\\stylecapturacamara.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682AF452-5AB1-4945-A434-1F25B460A521}|pruebaCamaraTablet\\pruebaCamaraTablet.csproj|C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebacamaratablet\\handler1.ashx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682AF452-5AB1-4945-A434-1F25B460A521}|pruebaCamaraTablet\\pruebaCamaraTablet.csproj|solutionrelative:pruebacamaratablet\\handler1.ashx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682AF452-5AB1-4945-A434-1F25B460A521}|pruebaCamaraTablet\\pruebaCamaraTablet.csproj|C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebacamaratablet\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682AF452-5AB1-4945-A434-1F25B460A521}|pruebaCamaraTablet\\pruebaCamaraTablet.csproj|solutionrelative:pruebacamaratablet\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682AF452-5AB1-4945-A434-1F25B460A521}|pruebaCamaraTablet\\pruebaCamaraTablet.csproj|c:\\users\\diego\\source\\repos\\pruebacamaratablet\\pruebacamaratablet\\scripts\\scriptstablet\\camaratablet.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{682AF452-5AB1-4945-A434-1F25B460A521}|pruebaCamaraTablet\\pruebaCamaraTablet.csproj|solutionrelative:pruebacamaratablet\\scripts\\scriptstablet\\camaratablet.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682AF452-5AB1-4945-A434-1F25B460A521}|pruebaCamaraTablet\\pruebaCamaraTablet.csproj|C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebacamaratablet\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{682AF452-5AB1-4945-A434-1F25B460A521}|pruebaCamaraTablet\\pruebaCamaraTablet.csproj|solutionrelative:pruebacamaratablet\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StyleCapturaCamara.css",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebaCamaraTablet\\Css\\StyleCapturaCamara.css",
+              "RelativeDocumentMoniker": "pruebaCamaraTablet\\Css\\StyleCapturaCamara.css",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebaCamaraTablet\\Css\\StyleCapturaCamara.css",
+              "RelativeToolTip": "pruebaCamaraTablet\\Css\\StyleCapturaCamara.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-12T14:22:49.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Handler1.ashx.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebaCamaraTablet\\Handler1.ashx.cs",
+              "RelativeDocumentMoniker": "pruebaCamaraTablet\\Handler1.ashx.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebaCamaraTablet\\Handler1.ashx.cs",
+              "RelativeToolTip": "pruebaCamaraTablet\\Handler1.ashx.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:31:49.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CamaraTablet.js",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebaCamaraTablet\\Scripts\\ScriptsTablet\\CamaraTablet.js",
+              "RelativeDocumentMoniker": "pruebaCamaraTablet\\Scripts\\ScriptsTablet\\CamaraTablet.js",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebaCamaraTablet\\Scripts\\ScriptsTablet\\CamaraTablet.js",
+              "RelativeToolTip": "pruebaCamaraTablet\\Scripts\\ScriptsTablet\\CamaraTablet.js",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwI8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-10T21:11:15.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebaCamaraTablet\\Default.aspx",
+              "RelativeDocumentMoniker": "pruebaCamaraTablet\\Default.aspx",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebaCamaraTablet\\Default.aspx",
+              "RelativeToolTip": "pruebaCamaraTablet\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-10T15:36:48.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebaCamaraTablet\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "pruebaCamaraTablet\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\pruebaCamaraTablet\\pruebaCamaraTablet\\Default.aspx.cs",
+              "RelativeToolTip": "pruebaCamaraTablet\\Default.aspx.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:57:53.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
